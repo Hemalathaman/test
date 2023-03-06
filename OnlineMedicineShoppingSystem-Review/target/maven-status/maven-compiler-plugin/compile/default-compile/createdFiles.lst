@@ -1,0 +1,15 @@
+com\example\demo\dto\MedicinePostCreatedResponseDTO.class
+com\example\demo\Repository\MedicineReviewCustomRepository.class
+com\example\demo\dto\ErrorDTO.class
+com\example\demo\OnlineMedicineShoppingSystemReviewApplication.class
+com\example\demo\Exception\ResourceNotFoundException.class
+com\example\demo\controller\MedicineReviewController.class
+com\example\demo\Repository\MedicineReviewRepository.class
+com\example\demo\dto\MyDTO.class
+com\example\demo\entity\Reviews.class
+com\example\demo\service\MedicineReviewServiceImpl.class
+com\example\demo\controller\MedicineReviewRestController.class
+com\example\demo\service\MedicineReviewService.class
+com\example\demo\dto\MedicineDefaultResponseDTO.class
+com\example\demo\comparator\SortReviewByRatingHighToLow.class
+com\example\demo\util\MedicineDTOConvertor.class
